@@ -1,8 +1,8 @@
 ## Hi, I'm Brayan Monge Méndez, a passionate full-time full-stack software engineer 🧑‍💻  
   
-- 👨‍💻 All of my projects are available at [https://branz.dev](https://branz.dev)
+- 👨‍💻 All of my projects are available at [https://braymonz.com](https://braymonz.com)
 
-- 📫 How to reach me contact@branz.dev
+- 📫 How to reach me contact@braymonz.com
 
 
 - ☁️ I’m currently learning new cloud technologies  
@@ -107,7 +107,7 @@
 
 <br/>  
 
-- 📝 I regularly write articles on [https://blog.branz.dev/](https://blog.branz.dev/)
+- 📝 I regularly write articles on [https://blog.braymonz.com/](https://blog.braymonz.com/)
 
 <br/>  
 
